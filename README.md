@@ -1,2 +1,2 @@
 # AI2_Battery_Monitor
-MIT AI2 project file to accompany my instructable
+Project files to accompany my Battery Monitor instructable
